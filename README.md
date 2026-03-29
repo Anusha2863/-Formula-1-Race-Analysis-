@@ -6,32 +6,32 @@ This project focuses on analyzing Formula 1 race data using SQL to understand dr
 
 ## ➤ Objective
 
-➤ To analyze Formula 1 race data using SQL and identify performance trends  
-➤ To perform data cleaning and transformation on real-world datasets  
-➤ To generate insights that support data-driven decision making  
+-> To analyze Formula 1 race data using SQL and identify performance trends  
+-> To perform data cleaning and transformation on real-world datasets  
+-> To generate insights that support data-driven decision making  
 
 ## ➤ Dataset Description
 
 The dataset consists of multiple related tables:
 
-➤ Drivers – Contains driver details such as name and nationality  
-➤ Races – Includes race year and circuit information  
-➤ Results – Contains race outcomes including position, points, and lap data  
+-> Drivers – Contains driver details such as name and nationality  
+-> Races – Includes race year and circuit information  
+-> Results – Contains race outcomes including position, points, and lap data  
 
 Key columns used:
 
-➤ driverId – Unique driver identifier  
-➤ raceId – Unique race identifier  
-➤ position – Final race position  
-➤ points – Points scored  
-➤ fastestLapTime – Best lap time  
+-> driverId – Unique driver identifier  
+-> raceId – Unique race identifier  
+-> position – Final race position  
+-> points – Points scored  
+-> fastestLapTime – Best lap time  
 
 ## ➤ Data Cleaning & Preparation
 
-➤ Handled missing and null values  
-➤ Standardized text formats  
-➤ Converted date fields into proper format  
-➤ Cleaned performance-related columns  
+-> Handled missing and null values  
+-> Standardized text formats  
+-> Converted date fields into proper format  
+-> Cleaned performance-related columns  
 
 ## ➤ SQL Analysis
 
@@ -167,33 +167,27 @@ Insight:
 
 ## ➤ Insights
 
-➤ Top drivers consistently score high points across races  
-➤ Certain teams dominate due to strong strategy  
-➤ Consistency is more important than occasional wins  
-➤ Performance varies across seasons  
-➤ Some drivers perform well despite lower starting positions  
+-> Top drivers consistently score high points across races  
+-> Certain teams dominate due to strong strategy  
+-> Consistency is more important than occasional wins  
+-> Performance varies across seasons  
+-> Some drivers perform well despite lower starting positions  
 
 <img width="1068" height="597" alt="Screenshot 2026-03-29 125828" src="https://github.com/user-attachments/assets/2e04ccb2-c4bc-4d48-9c33-69714c7f27b2" />
 
 
 ## ➤ Conclusion
 
-➤ Successfully analyzed Formula 1 race data using SQL  
-➤ Identified key performance trends  
-➤ Demonstrated complete analytics workflow  
-➤ Derived meaningful insights from data  
+-> Successfully analyzed Formula 1 race data using SQL  
+-> Identified key performance trends  
+-> Demonstrated complete analytics workflow  
+-> Derived meaningful insights from data  
 
 ## ➤ Future Scope
 
-➤ Build dashboards using Power BI or Tableau  
-➤ Perform predictive analysis  
-➤ Integrate real-time racing data  
-
-## ➤ How to Add Images
-
-➤ Store screenshots inside the images/ folder  
-➤ Use clear file names (q1_output.png, etc.)  
-➤ Update paths if needed  
+-> Build dashboards using Power BI or Tableau  
+-> Perform predictive analysis  
+-> Integrate real-time racing data  
 
 ## ➤ Author
 
