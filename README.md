@@ -39,7 +39,8 @@ Key columns used:
 
 #### Q1: How many drivers are there in the dataset?
 
-<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/18385c79-1823-4b07-b488-b5cdeed6e8c5" />
+<img width="1070" height="598" alt="Screenshot 2026-03-29 123530" src="https://github.com/user-attachments/assets/af043e51-6341-4246-a9e1-3e961c2ad723" />
+
 
 
 Explanation:  
