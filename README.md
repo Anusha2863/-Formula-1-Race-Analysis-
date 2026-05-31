@@ -198,3 +198,8 @@ Data Analytics Enthusiast
 ## ➤ Note
 
 This project is part of my continuous learning journey in Data Analytics, focusing on SQL and data analysis skills.
+
+
+
+<img width="1050" height="587" alt="E-commerce SQL Case Study" src="https://github.com/user-attachments/assets/01f3ba59-8a29-4c56-a7f1-fd147116d63c" />
+
